@@ -1,0 +1,1 @@
+PATH=/usr/local/bin:/Users/Saccime/bin PATH=/usr/bin:/Users/Saccime/bin PATH=/bin:/Users/Saccime/bin PATH=/usr/sbin:/Users/Saccime/bin PATH=/sbin:/Users/Saccime/bin PATH=/opt/X11/bin:/Users/Saccime/bin PATH=/usr/local/share/dotnet:/Users/Saccime/bin PATH=~/.dotnet/tools:/Users/Saccime/bin PATH=/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/Saccime/bin
